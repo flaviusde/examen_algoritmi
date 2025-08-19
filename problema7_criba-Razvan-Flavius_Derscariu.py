@@ -1,4 +1,5 @@
 # Problema 7 – Criba lui Eratostene (10p)
+# Criba lui Erastostene nu am invatat. N-am mai avut timp. Nici nu vreau sa copii. Deci recunosc ca nu o stiu
 
 from typing import List
 
